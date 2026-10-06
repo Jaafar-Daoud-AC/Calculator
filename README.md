@@ -49,15 +49,15 @@ The calculator also includes a dedicated panel for selected communication engine
 
 ### Main Calculator
 
-![Main Calculator](screenshots/calculator-main.png)
+![Main Calculator](screenshots/calculator-main.PNG)
 
 ### Scientific Calculator
 
-![Scientific Calculator](screenshots/calculator-scientific.png)
+![Scientific Calculator](screenshots/calculator-scientific.PNG)
 
 ### Communication Engineering Calculator
 
-![Communication Engineering Calculator](screenshots/calculator-engineering.png)
+![Communication Engineering Calculator](screenshots/calculator-engineering.PNG)
 
 ## Technologies
 
