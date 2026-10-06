@@ -1,35 +1,38 @@
 # Calculator
 
-A Python desktop calculator built with Tkinter.
+A Python desktop calculator built with Tkinter, combining basic arithmetic, scientific functions, and selected communication engineering formulas.
 
 ## Features
 
 ### Basic Calculator
+
 - Addition
 - Subtraction
 - Multiplication
 - Division
 - Decimal calculations
+- Clear display
 - Backspace
-- Clear
 
 ### Scientific Calculator
-- DEG / RAD modes
-- sin
-- cos
-- tan
-- sqrt
-- log
-- ln
-- pi
-- e
-- factorial
-- powers
-- reciprocal
+
+- DEG / RAD angle modes
+- Sine
+- Cosine
+- Tangent
+- Square root
+- Common logarithm (`log`)
+- Natural logarithm (`ln`)
+- Pi (`π`)
+- Euler's number (`e`)
+- Factorial
+- Powers
+- Reciprocal
+- Parentheses
 
 ### Communication Engineering Calculator
 
-The project also includes a dedicated panel for selected communication engineering formulas, including:
+The calculator also includes a dedicated panel for selected communication engineering formulas:
 
 - Power ratio → dB
 - Voltage ratio → dB
@@ -42,14 +45,38 @@ The project also includes a dedicated panel for selected communication engineeri
 - Nyquist rate
 - PCM bit rate
 
+## Screenshots
+
+### Main Calculator
+
+![Main Calculator](screenshots/calculator-main.png)
+
+### Scientific Calculator
+
+![Scientific Calculator](screenshots/calculator-scientific.png)
+
+### Communication Engineering Calculator
+
+![Communication Engineering Calculator](screenshots/calculator-engineering.png)
+
 ## Technologies
 
 - Python
 - Tkinter
-- math
-- re
+- `math`
+- `re`
 
 ## How to Run
 
+### Requirements
+
+- Python 3.x
+
+Tkinter is used for the graphical user interface.
+
+### Run the Application
+
+Clone the repository:
+
 ```bash
-python calculator.py
+git clone https://github.com/Jaafar-Daoud-AC/Calculator.git
