@@ -80,3 +80,28 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Jaafar-Daoud-AC/Calculator.git
+
+Navigate to the project directory:
+cd Calculator
+
+Run the application:
+python calculator.py
+Project Structure
+Calculator/
+├── calculator.py
+├── README.md
+└── screenshots/
+    ├── calculator-main.PNG
+    ├── calculator-scientific.PNG
+    └── calculator-engineering.PNG
+Project Status
+
+Completed — Future improvements may be added.
+
+Author
+
+Jaafar Daoud
+
+Applied Communications Engineer
+
+GitHub: Jaafar-Daoud-AC
